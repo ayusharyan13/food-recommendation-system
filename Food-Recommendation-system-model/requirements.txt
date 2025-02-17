@@ -1,0 +1,6 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+pandas==2.0.1
+numpy==1.24.3
+scikit-learn==1.2.2
+python-dotenv==1.0.0
